@@ -9,7 +9,9 @@ Este proyecto es una **landing page** creada como parte de los ejercicios del cu
 
 ## 📸 Vista Previa
 
-![Vista previa](./images/awesome.jpg)
+![Vista previa 1](./images/web-01.png)  
+![Vista previa 2](./images/web-02.png)  
+![Vista previa 3](./images/web-03.png)
 
 ---
 
@@ -61,11 +63,11 @@ El sitio web contiene las siguientes secciones:
 
 ## ✅ Estado del proyecto
 
-✔️ Se completaron todas las secciones requeridas  
-✔️ Estilos aplicados de manera modular  
-⚠️ Algunas clases podrían mejorarse en nomenclatura
-⚠️ No sera lo mas eficiente o correcto para que sea responsive
----
+- ✔️ Se completaron todas las secciones requeridas
+- ✔️ Estilos aplicados de manera modular
+- ⚠️ Algunas clases podrían mejorarse en nomenclatura
+- ⚠️ No será lo más eficiente o correcto para que sea responsive
+
 
 ## 🧠 Autor
 
